@@ -1,3 +1,5 @@
+Portfolio: https://yeo987.github.io/john_ong/
+
 Hi! I'm John Ong, an accounts, audit and tax professional making a move into data analysis and data science fields.
 This is my portfolio and profile! 
 
